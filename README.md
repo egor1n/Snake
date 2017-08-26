@@ -1,8 +1,9 @@
 # Snake-JavaRush
 Console game
 
-HOW TO LAUCH
+<h2>How can I play it?</h2>
 
-1. Download the jar file of the project
-
-2. Write in console: java -jar 'your jar file name'.jar
+<ol>
+  <li>Download the jar file of the project</li>
+  <li>Write in console: java -jar 'your jar file name'.jar</li>
+</ol>
